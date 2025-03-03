@@ -1,0 +1,24 @@
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Parsing input file
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.common.base.Identifier identifier
+WARNING: Invalid identifier string cJSD_ext_1.0 had to be altered to cJSD_ext_1_0
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Done parsing ARFF file
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.table.CSV csvStringListToListOfLists
+INFO: Done reading data (504 number of rows)
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.xarf.AttributeDeclaration attribute
+WARNING: Skipping attribute 'B_eps_H' with unknown domain specifier '(eV)'
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.xarf.Xarf attributes
+INFO: Done creating attributes (24 attributes created)
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.xarf.Xarf derivedAttributes
+INFO: Done creating derived attributes (0 derived attributes created)
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.data.propositions.StandardPropositionalizationScheme apply
+INFO: Done compiling proposition list (480 propositions added)
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: population_of_cJSD_ext_1_0
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: cJSD_ext_1_0
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: statements_about_cJSD_ext_1_0
+Jul 31, 2024 5:47:03 PM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: $results_of_subgroup_analysis

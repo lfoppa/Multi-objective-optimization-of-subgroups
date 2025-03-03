@@ -1,0 +1,24 @@
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Parsing input file
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.common.base.Identifier identifier
+WARNING: Invalid identifier string positive_mean_mc_ext_1.0 had to be altered to positive_mean_mc_ext_1_0
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Done parsing ARFF file
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.table.CSV csvStringListToListOfLists
+INFO: Done reading data (504 number of rows)
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.xarf.AttributeDeclaration attribute
+WARNING: Skipping attribute 'B_eps_H' with unknown domain specifier '(eV)'
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.xarf.Xarf attributes
+INFO: Done creating attributes (24 attributes created)
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.xarf.Xarf derivedAttributes
+INFO: Done creating derived attributes (0 derived attributes created)
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.data.propositions.StandardPropositionalizationScheme apply
+INFO: Done compiling proposition list (480 propositions added)
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: population_of_positive_mean_mc_ext_1_0
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: positive_mean_mc_ext_1_0
+Aug 01, 2024 10:43:36 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: statements_about_positive_mean_mc_ext_1_0
+Aug 01, 2024 10:44:38 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: $results_of_subgroup_analysis

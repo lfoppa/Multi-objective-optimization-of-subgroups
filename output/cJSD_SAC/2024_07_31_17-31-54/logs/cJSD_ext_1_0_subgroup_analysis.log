@@ -1,0 +1,17 @@
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.common.parameter.ParameterContainer lambda$pass$4
+WARNING: Parameter value of cov_weight could not be passed to container.
+Jul 31, 2024 5:31:54 PM de.unibonn.realkd.run.LegacyComputationSpecification build
+INFO: accepted parameter values:
+table=cJSD_ext_1_0
+targets=[bulk_modulus]
+modeling=Empirical distribution
+dev_measure=cum. Jensen Shannon divergence
+controls=Optional.empty
+props=Statements about cJSD_ext_1_0
+attr_filter=[]
+obj_func=frequency times deviation
+num_res=5000
+num_seeds=50000
+seed_dist=P(x)=freq(x)^a
+a=1
+post_proc=LinearRandomPruner
